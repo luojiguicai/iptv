@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="98LiveBeloHorizonte.br" tvg-name="98 Live (Belo Horizonte)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" tvg-url="" group-title="",98 Live (Belo Horizonte) (720p)
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" tvg-url="" group-title="Hobby",AgroBrasil TV (486p)
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-url="" group-title="Sport",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" tvg-url="" group-title="Legislative",ARTV | Canal Parlamento (432p)
-https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiaí" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9SjoGWj.png" tvg-url="" group-title="Local",Canal 25 Jundiaí
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" tvg-url="" group-title="Hobby",Canal do Boi
@@ -51,8 +47,6 @@ http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" tvg-url="" group-title="Religious",Kuriakos TV (1080p)
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="MetropoleNewsTV.br" tvg-name="Metrópole News TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" tvg-url="" group-title="News",Metrópole News TV (480p)
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MKKWebTV.br" tvg-name="MKK Web TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" tvg-url="" group-title="General",MKK Web TV (360p)
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" tvg-url="" group-title="Local",Nova Era TV (1080p)
@@ -113,6 +107,14 @@ http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
 http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" tvg-url="" group-title="Hobby",Terra Viva (720p)
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-name="TNT Sports 2 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="Sport",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="Sport",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="Sport",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="Sport",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" tvg-url="" group-title="Legislative",TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="TVALRN.br" tvg-name="TV ALRN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" tvg-url="" group-title="Legislative",TV ALRN (480p)
@@ -151,8 +153,6 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" tvg-url="" group-title="News",TV Guará (720p)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-id="TVImaculadaConceicao.br" tvg-name="TV Imaculada Conceição" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.caikron.com.br/player/mi/caikron_fundo_tvmi_original.jpg" tvg-url="" group-title="Religious",TV Imaculada Conceição (1080p)
-https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
 #EXTINF:-1 tvg-id="TVInterlagos.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" tvg-url="" group-title="Local",TV Interlagos (576p)
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" tvg-url="" group-title="Education",TV Mackenzie (480p)
@@ -187,8 +187,6 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-name="TV Verdes Campos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1mK39TC.png" tvg-url="" group-title="General",TV Verdes Campos
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="TV8.br" tvg-name="TV8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.imgur.com/pnbqx6r.png" tvg-url="" group-title="General",TV8 (1080p)
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCIParanagua.br" tvg-name="TVCI Paranaguá" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4GKZbXD.png" tvg-url="" group-title="General",TVCI Paranaguá (360p)
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" tvg-url="" group-title="Local",TVE Bahia
@@ -203,11 +201,7 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 tvg-id="VivaWebTV.br" tvg-name="Viva Web TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/msQ76Hk.jpg" tvg-url="" group-title="General",Viva Web TV (480p)
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-id="WebTVUai.br" tvg-name="Web TV Uai" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" tvg-url="" group-title="Local",Web TV Uai
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" tvg-url="" group-title="General",Yeeaah! (720p)
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-id="ZOOM.br" tvg-name="ZOOM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Local",ZOOM (720p)
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 #EXTINF:-1 tvg-id="AoMenMACAU.mo" tvg-name="澳門-MACAU" tvg-country="MO" tvg-language="Chinese;Yue Chinese;Portuguese" tvg-logo="https://i.imgur.com/59lAsao.png" tvg-url="" group-title="General",澳門-MACAU (720p)
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8

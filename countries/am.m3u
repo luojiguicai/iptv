@@ -5,10 +5,6 @@ http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-id="5TV.am" tvg-name="5TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/yigw9dr.png" tvg-url="" group-title="",5TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s6/04.m3u8
-#EXTINF:-1 tvg-id="AdaTV.cy" tvg-name="Ada TV" tvg-country="EUR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" tvg-url="" group-title="",Ada TV
-https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="AdaTV.cy" tvg-name="Ada TV" tvg-country="EUR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" tvg-url="" group-title="",Ada TV (1080p)
-https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Amga.am" tvg-name="Amga" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/3vQVwUV.jpg" tvg-url="" group-title="",Amga
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AraratTV.am" tvg-name="Ararat TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/nCdGhjB.png" tvg-url="" group-title="",Ararat TV (480p)
@@ -64,7 +60,11 @@ http://ott-cdn.ucom.am/s53/index.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
 https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
 https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
@@ -76,16 +76,10 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="CanalsurA.TDTChannelsEPG" tvg-name="Canal Sur Andalucía" tvg-country="EUR" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 #EXTINF:-1 tvg-id="DaVinci.de" tvg-name="Da Vinci" tvg-country="CIS" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Da Vinci
 http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
 #EXTINF:-1 tvg-id="DaVinci.de" tvg-name="Da Vinci" tvg-country="CIS" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-country="EUR;AU" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/uet8P2n.jpg" tvg-url="" group-title="",ERT World
-http://wpso.com:1936/hls/wzra.m3u8
-#EXTINF:-1 tvg-id="GoTV.at" tvg-name="GoTV" tvg-country="EUR" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" tvg-url="" group-title="",GoTV (576p)
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
 #EXTINF:-1 tvg-id="H2.am" tvg-name="H2" tvg-country="AM" tvg-language="Armenian" tvg-logo="http://www.coolstreaming.us/img/ch/image3021371737.jpg" tvg-url="" group-title="",H2 (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s2/index.m3u8
@@ -95,8 +89,8 @@ http://ott-cdn.ucom.am/s12/index.m3u8
 #EXTINF:-1 tvg-id="KentronTV.am" tvg-name="Kentron TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/g7pEQG6.png" tvg-url="" group-title="",Kentron TV (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 tvg-id="PrimeAsiaTV.ca" tvg-name="Prime Asia TV" tvg-country="IN;CA;UK;US;AU;NZ;EUR" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" tvg-url="" group-title="",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTVHitsEurope.us" tvg-name="MTV Hits Europe" tvg-country="EUR" tvg-language="" tvg-logo="" tvg-url="" group-title="Music",MTV Hits Europe
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioVan1030FMYerevan.am" tvg-name="Radio Van 103.0 FM (Yerevan)" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/zYO4KjA.jpg" tvg-url="" group-title="",Radio Van 103.0 FM (Yerevan) (720p)
 http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-id="ShantTV.am" tvg-name="Shant TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/EbqVba3.png" tvg-url="" group-title="",Shant TV (1080p)
@@ -105,8 +99,6 @@ http://ott-cdn.ucom.am/s3/index.m3u8
 #EXTINF:-1 tvg-id="Shoghakat.am" tvg-name="Shoghakat" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/e4VxCnn.png" tvg-url="" group-title="",Shoghakat (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 tvg-id="SONGTVArmenia.am" tvg-name="SONGTV Armenia" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/iiw909y.png" tvg-url="" group-title="Music",SONGTV Armenia
-http://songtvam.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNArmenia.am" tvg-name="TBN Armenia" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/zdJeT34.jpg" tvg-url="" group-title="Religious",TBN Armenia (1080p)
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
 #EXTINF:-1 tvg-id="TBNArmenia.am" tvg-name="TBN Armenia" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/zdJeT34.jpg" tvg-url="" group-title="Religious",TBN Armenia (1080p)

@@ -3,10 +3,12 @@
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" tvg-url="" group-title="News",92 News (720p)
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="92NewsUK.pk" tvg-name="92 News UK" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-url="" group-title="",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="AVTKHYBER.pk" tvg-name="AVT KHYBER" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" tvg-url="" group-title="",AVT KHYBER (414p)
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
@@ -21,8 +23,8 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="News",Dunya News (360p)
 https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="ExpressTV.pk" tvg-name="Express TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/wY41F5k.png" tvg-url="" group-title="",Express TV
-https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Geo News" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="",Geo News (576p)
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="HUMRAAZTV.us" tvg-name="HUMRAAZ TV" tvg-country="US;PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="News",HUMRAAZ TV
 https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1 tvg-id="Kay2TV.pk" tvg-name="Kay2 TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Hw94SaM.jpg" tvg-url="" group-title="",Kay2 TV (414p)

@@ -3,6 +3,10 @@
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-name="Bayon TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/1TgC7mx.jpg" tvg-url="" group-title="News",Bayon TV (360p)
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-url="" group-title="Business",Bloomberg TV Asia (720p)

@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" tvg-url="" group-title="News",92 News (720p)
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="92NewsUK.pk" tvg-name="92 News UK" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-url="" group-title="",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="92NewsUK.uk" tvg-name="92 News UK" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-url="" group-title="News",92 News UK
+#EXTINF:-1 tvg-id="92NewsUK.pk" tvg-name="92 News UK" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-url="" group-title="",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="AVTKHYBER.pk" tvg-name="AVT KHYBER" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" tvg-url="" group-title="",AVT KHYBER (414p)
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8
@@ -13,10 +11,10 @@ https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="EawazTV.ca" tvg-name="Eawaz TV" tvg-country="CA" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="",Eawaz TV (720p)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 tvg-id="ExpressTV.pk" tvg-name="Express TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/wY41F5k.png" tvg-url="" group-title="",Express TV
-https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Eye95America.us" tvg-name="Eye 95 America" tvg-country="US" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="News",Eye 95 America
 https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Geo News" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="",Geo News (576p)
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="HUMRAAZTV.us" tvg-name="HUMRAAZ TV" tvg-country="US;PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="News",HUMRAAZ TV
 https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV4Urdu.iq" tvg-name="Imam Hussein TV 4 Urdu" tvg-country="IQ" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Imam Hussein TV 4 Urdu (720p)
@@ -41,8 +39,6 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-country="PK" tvg-language="Urdu" tvg-logo="" tvg-url="" group-title="Sport",PTV Sports (720p)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-name="Sahar Urdu" tvg-country="IR" tvg-language="Urdu" tvg-logo="https://i.imgur.com/eNIZq3q.png" tvg-url="" group-title="",Sahar Urdu
-https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UrduTVToronto.ca" tvg-name="Urdu TV Toronto" tvg-country="CA" tvg-language="Urdu" tvg-logo="https://i.imgur.com/7768lwn.jpg" tvg-url="" group-title="Local",Urdu TV Toronto (720p)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZindagiTV.pk" tvg-name="Zindagi TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/RtHeRwp.png" tvg-url="" group-title="",Zindagi TV (576p)

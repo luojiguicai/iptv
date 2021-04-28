@@ -205,20 +205,12 @@ http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
 #EXTINF:-1 tvg-id="YaLuWeiShi.hk" tvg-name="亞旅衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" tvg-url="" group-title="Travel",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-id="GongShiSanTai.tw" tvg-name="公視三台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/82/PTS3_logo.svg/1200px-PTS3_logo.svg.png" tvg-url="" group-title="General",公視三台
-https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="TaiShiCaiJingTai.tw" tvg-name="台視財經台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/TTV_Finance_Channel_2016.png/440px-TTV_Finance_Channel_2016.png" tvg-url="" group-title="News",台視財經台
-https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 #EXTINF:-1 tvg-id="YiDianShiXinWenTai.tw" tvg-name="壹電視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF" tvg-url="" group-title="News",壹電視新聞台
-https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="XiWangDianShiTai.tw" tvg-name="希望電視台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-url="" group-title="Religious",希望電視台 (720p)
-https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="XingKongWeiShi.hk" tvg-name="星空衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" tvg-url="" group-title="General",星空衛視
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-id="MinShiXinWenTai.tw" tvg-name="民視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-url="" group-title="News",民視新聞台
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="WeiLaiJingCaiTai.tw" tvg-name="緯來精采台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-hd-live.jpg" tvg-url="" group-title="Entertainment",緯來精采台
-https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
 #EXTINF:-1 tvg-id="MaiShiWang.cn" tvg-name="迈视网" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/S14txRh.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",迈视网
 http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
 #EXTINF:-1 tvg-id="XiangGangWeiShi.hk" tvg-name="香港衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/wnQPn2d.jpg" tvg-url="" group-title="",香港衛視

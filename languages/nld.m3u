@@ -3,8 +3,6 @@
 https://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-id="BNRNieuwsradio.nl" tvg-name="BNR Nieuwsradio" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" tvg-url="" group-title="",BNR Nieuwsradio (720p)
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2OJjojo.png" tvg-url="" group-title="",BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-country="BE;LU;NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" tvg-url="" group-title="",Canvas (540p)
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="CityMusicTV.be" tvg-name="City Music TV" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-url="" group-title="Music",City Music TV (720p)

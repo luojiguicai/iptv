@@ -9,7 +9,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-url="" group-title="Religious",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-id="3ABNKIDSTV.us" tvg-name="3ABN KIDS TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Religious",3ABN KIDS TV (720p)
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Religious",3ABN Kids (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DrGJhG3.png" tvg-url="" group-title="Religious",3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
@@ -23,11 +23,17 @@ https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="ABNsat" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 tvg-id="tv.acctv" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/lokNx1U.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Religious",ACCTV (720p)
+#EXTINF:-1 tvg-id="ACCTV.au" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Religious",ACCTV
+http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8
+#EXTINF:-1 tvg-id="ACCTV.au" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Religious",ACCTV (720p)
 https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
+#EXTINF:-1 tvg-id="ACCTV.au" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Religious",ACCTV
+https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
+#EXTINF:-1 tvg-id="AhluAlQuranTV.sa" tvg-name="Ahlu Al Quran TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.ahlu.tv/uploads/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Ahlu Al Quran TV
+https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-name="Ahlulbayt TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qLqHPhK.png" tvg-url="" group-title="Religious",Ahlulbayt TV
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="AkaalTV.uk" tvg-name="Akaal TV" tvg-country="UK" tvg-language="Punjabi;English" tvg-logo="https://i.imgur.com/62IpVDn.png" tvg-url="" group-title="Religious",Akaal TV (396p)
+#EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" tvg-country="UK" tvg-language="Punjabi;English" tvg-logo="https://i.imgur.com/62IpVDn.png" tvg-url="" group-title="Religious",Akaal Channel (396p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-name="Al Aqsa Channel" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Aqsa Channel (480p)
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
@@ -43,28 +49,38 @@ http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIstiqamaTV.om" tvg-name="Al Istiqama TV" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H7D7dmK.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Istiqama TV (576p)
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemMecca.sa" tvg-name="Al Quran Al Kareem (Mecca)" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Quran Al Kareem (Mecca) (720p)
+#EXTINF:-1 tvg-id="AlMaarefTV.bh" tvg-name="Al Maaref TV" tvg-country="BH" tvg-language="Arabic" tvg-logo="http://live.almaaref.tv/wp-content/uploads/2018/11/almaaref-Dark-Logo-175x100-1.jpg" tvg-url="" group-title="Religious",Al Maaref TV
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Quran Al Kareem TV (Mecca) (720p)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemMecca.sa" tvg-name="Al Quran Al Kareem (Mecca)" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Quran Al Kareem (Mecca) (360p)
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Quran Al Kareem TV (Mecca) (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemMecca.sa" tvg-name="Al Quran Al Kareem (Mecca)" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Quran Al Kareem (Mecca) (1080p)
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Quran Al Kareem TV (Mecca) (1080p)
 https://iptv--iptv.repl.co/Arabic/Quran_TV/
-#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Sunnah (Medina) (720p)
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (720p)
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Sunnah (Medina) (360p)
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:-1 tvg-id="AlSunnahMedina.sa" tvg-name="Al Sunnah (Medina)" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/84nqj99.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Sunnah (Medina) (1080p)
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/84nqj99.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (1080p)
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
 #EXTINF:-1 tvg-id="AlWesalTV.sa" tvg-name="Al Wesal TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Wesal TV (720p)
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (1080p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (240p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_240p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (360p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (480p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (720p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-name="Alerth Alnabawi" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" tvg-url="" group-title="Religious",Alerth Alnabawi
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-url="" group-title="Religious",Alfa Omega TV (540p)
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-url="" group-title="Religious",Alfa Omega TV (540p)
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-url="" group-title="Religious",Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="AlientoVision.us" tvg-name="Aliento Vision" tvg-country="US" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-PhLS_fIgOJg/W0UMytbPJDI/AAAAAAAAe1k/RcAbtgqfcSU-yNVruZEJ48Mq3tM0SqmQwCLcBGAs/s200/Aliento%2BVision.png" tvg-url="" group-title="Religious",Aliento Vision (480p)
 http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us" tvg-name="Aliento Vision" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0qwmBEm.png" tvg-url="" group-title="Religious",Aliento Vision
@@ -87,8 +103,6 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/zXWgbVk.png" tvg-url="" group-title="Religious",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Amozhgary.iq" tvg-name="Amozhgary" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://amozhgary.tv/style/img/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Amozhgary
-http://82.212.74.100:8000/live/hls/8951.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-name="Bahrain Quran" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-url="" group-title="Religious",Bahrain Quran (720p)
 http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-name="Bahrain Quran" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-url="" group-title="Religious",Bahrain Quran (720p)
@@ -101,10 +115,6 @@ https://stream.y5.hu/stream/stream_bonum/stream.m3u8
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:-1 tvg-id="CatholicTV.us" tvg-name="Catholic TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" tvg-url="" group-title="Religious",Catholic TV (720p)
 https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
-#EXTINF:-1 tvg-id="CatolicaTV.bo" tvg-name="Católica TV" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/APwaLsO.jpg" tvg-url="" group-title="Religious",Católica TV (280p)
-http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="CatolicaTV.bo" tvg-name="Católica TV" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/APwaLsO.jpg" tvg-url="" group-title="Religious",Católica TV (280p)
-http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBN.us" tvg-name="CBN" tvg-country="US" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-url="" group-title="Religious",CBN (1080p)
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="CBN.us" tvg-name="CBN" tvg-country="US" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-url="" group-title="Religious",CBN (1080p)
@@ -115,6 +125,8 @@ https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="CBNFamily.us" tvg-name="CBN Family" tvg-country="US" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-url="" group-title="Religious",CBN Family (1080p)
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBN News" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png" tvg-url="" group-title="Religious",CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-id="CGNTV.kr" tvg-name="CGNTV" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/SQI9PAz.png" tvg-url="" group-title="Religious",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
 #EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" tvg-url="" group-title="Religious",CGNTV Japan (720p)
@@ -125,7 +137,7 @@ http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAChaineNordAfricaine.dz" tvg-name="CNA (Chaîne Nord Africaine)" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" tvg-url="" group-title="Religious",CNA (Chaîne Nord Africaine) (360p)
 https://live.creacast.com/cna/smil:cna.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="cnl-eu" tvg-name="CNL Европа" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/lozzdS7.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",CNL (Европа)
+#EXTINF:-1 tvg-id="CNLEvropa.ua" tvg-name="CNL Европа" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/lozzdS7.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",CNL Европа
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
 #EXTINF:-1 tvg-id="CopticTV.eg" tvg-name="Coptic TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Coptic TV (720p)
 https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
@@ -143,14 +155,12 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us" tvg-name="Dr. Gene Scott" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FppLahc.jpg" tvg-url="" group-title="Religious",Dr. Gene Scott (480p)
 https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
-#EXTINF:-1 tvg-id="EJTV.cr" tvg-name="EJTV" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Religious",EJTV (288p)
-https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
-#EXTINF:-1 tvg-id="ElSembradorTV.es" tvg-name="El Sembrador TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VbxfLY5.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Religious",El Sembrador TV (1080p)
-https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 #EXTINF:-1 tvg-id="ElbesharaTv.us" tvg-name="Elbeshara Tv" tvg-country="US;EG" tvg-language="Arabic" tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" tvg-url="" group-title="Religious",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" tvg-url="" group-title="Religious",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="ESNETV.es" tvg-name="ESNE TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VbxfLY5.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Religious",ESNE TV (1080p)
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 #EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fGdHIGy.png" tvg-url="" group-title="Religious",ESNE TV (1080p)
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 #EXTINF:-1 tvg-id="FaithLifeTV.us" tvg-name="Faith & Life TV" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" tvg-url="" group-title="Religious",Faith & Life TV (720p)
@@ -161,7 +171,7 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="GODTV.us" tvg-name="GOD TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png" tvg-url="" group-title="Religious",GOD TV (720p)
 https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
-#EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Religious",GOD TV (720p)
+#EXTINF:-1 tvg-id="GodTVUK.uk" tvg-name="God TV UK" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Religious",God TV UK (720p)
 https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
 #EXTINF:-1 tvg-id="GOODTVCH1ZongHeTai.tw" tvg-name="GOOD TV CH1 綜合台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" tvg-url="" group-title="Religious",GOOD TV CH1 綜合台 (720p)
 https://live.streamingfast.net/osmflivech1.m3u8
@@ -259,14 +269,8 @@ https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyGodTV.fr" tvg-name="HolyGod TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png" tvg-url="" group-title="Religious",HolyGod TV (720p)
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
-#EXTINF:-1 tvg-id="HopeChannel.us" tvg-name="Hope Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-url="" group-title="Religious",Hope Channel (720p)
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-name="Hosanna Vision" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" tvg-url="" group-title="Religious",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IBCBakthi.in" tvg-name="IBC Bakthi" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-bakthi.png" tvg-url="" group-title="Religious",IBC Bakthi (720p)
-https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi.m3u8
-#EXTINF:-1 tvg-id="IBCSiluvai.in" tvg-name="IBC Siluvai" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-siluvaii.png" tvg-url="" group-title="Religious",IBC Siluvai (720p)
-https://ibcsiluvai-live.ibctamil.com/transcode/ibcsiluvai.m3u8
 #EXTINF:-1 tvg-id="IBNTV.tz" tvg-name="IBN TV" tvg-country="TZ" tvg-language="English" tvg-logo="https://i.imgur.com/Wf2BlTG.png" tvg-url="" group-title="Religious",IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="IglesiaDelCamino.gt" tvg-name="Iglesia Del Camino" tvg-country="GT" tvg-language="Spanish" tvg-logo="http://www.iglesiadelcamino.org/images/logo.png" tvg-url="" group-title="Religious",Iglesia Del Camino
@@ -287,10 +291,12 @@ https://live.imamhossaintv.com/live/ih3.m3u8
 https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV4Urdu.iq" tvg-name="Imam Hussein TV 4 Urdu" tvg-country="IQ" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Imam Hussein TV 4 Urdu (720p)
 https://ur.imamhusseintv.com/live/ih4.m3u8
-#EXTINF:-1 tvg-id="ImpactTV.ru" tvg-name="Impact TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Impact TV (480p)
+#EXTINF:-1 tvg-id="ImpactTelevisionNetwork.us" tvg-name="Impact Television Network" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Religious",Impact Television Network (480p)
 http://206.190.141.27:1935/live/impact/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.bf" tvg-name="Impact TV" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/sCGRccj.png" tvg-url="" group-title="Religious",Impact TV (360p)
-https://edge4.vedge.infomaniak.com/livecast/ik:impactv_1/manifest.m3u8
+https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/chunklist_w1404999051.m3u8
+#EXTINF:-1 tvg-id="ImpactTV.bf" tvg-name="Impact TV" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/sCGRccj.png" tvg-url="" group-title="Religious",Impact TV (360p)
+https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/manifest.m3u8
 #EXTINF:-1 tvg-id="IMPDTV.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/D15qpCm.png" tvg-url="" group-title="Religious",IMPD TV (1080p)
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="InspirationTV.us" tvg-name="Inspiration TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CQnD7yU.png" tvg-url="" group-title="Religious",Inspiration TV (360p)
@@ -317,12 +323,8 @@ https://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 #EXTINF:-1 tvg-id="KarbalaLive2.ir" tvg-name="Karbala Live 2" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 2 (360p)
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
-#EXTINF:-1 tvg-id="KarbalaLive3.ir" tvg-name="Karbala Live 3" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 3 (360p)
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
 #EXTINF:-1 tvg-id="KarbalaLive4.ir" tvg-name="Karbala Live 4" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 4 (360p)
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
-#EXTINF:-1 tvg-id="KarbalaLive5.ir" tvg-name="Karbala Live 5" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 5 (360p)
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" tvg-url="" group-title="Religious",Kuriakos TV (1080p)
 http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" tvg-url="" group-title="Religious",Kuriakos TV (1080p)
@@ -342,7 +344,7 @@ http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MohabatTV.ir" tvg-name="Mohabat TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/r1VblfT.png" tvg-url="" group-title="Religious",Mohabat TV (540p)
 https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorAlSham.sy" tvg-name="Noor Al-Sham" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Noor Al-Sham (270p)
-http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
+http://82.137.248.16:1935/Nour/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="NourAlKoddas.lb" tvg-name="Nour Al Koddas" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Nour Al Koddas (406p)
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NourAlShabab.lb" tvg-name="Nour Al Shabab" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Nour Al Shabab (406p)
@@ -419,7 +421,7 @@ http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SuboroTV.sy" tvg-name="Suboro TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrNVVOu.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Suboro TV
 https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TaroteameTV.es" tvg-name="Taroteame TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Religious",Taroteame TV (576p)
+#EXTINF:-1 tvg-id="Taroteame.es" tvg-name="Tarotéame" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Religious",Tarotéame (576p)
 http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNArmenia.am" tvg-name="TBN Armenia" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/zdJeT34.jpg" tvg-url="" group-title="Religious",TBN Armenia (1080p)
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
@@ -439,8 +441,6 @@ http://51.210.199.1/hls/stream.m3u8
 http://rtmp1.abnsat.com/hls/trinity.m3u8
 #EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="TV Fatima PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" tvg-url="" group-title="Religious",TV Fátima (1080p)
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVImaculadaConceicao.br" tvg-name="TV Imaculada Conceição" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.caikron.com.br/player/mi/caikron_fundo_tvmi_original.jpg" tvg-url="" group-title="Religious",TV Imaculada Conceição (1080p)
-https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaMocambique.mz" tvg-name="TV Maná Moçambique" tvg-country="MZ" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5UIy5tD.png" tvg-url="" group-title="Religious",TV Maná Moçambique (574p)
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" tvg-url="" group-title="Religious",TV Pai Eterno
@@ -459,15 +459,19 @@ http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/pl
 http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
 #EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-name="Каббала ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Каббала ТВ (360p)
 https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Надежда (720p)
+#EXTINF:-1 tvg-id="Nadezhda.ru" tvg-name="Надежда" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-country="RU" tvg-language="Russian" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Надежда (720p)
+#EXTINF:-1 tvg-id="Nadezhda.ru" tvg-name="Надежда" tvg-country="RU" tvg-language="Russian" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Надежда (720p)
 https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="nebesa-tv7" tvg-name="Небеса ТВ7" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Небеса ТВ7 (720p)
+#EXTINF:-1 tvg-id="NebesaTV7.ru" tvg-name="Небеса ТВ7" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Небеса ТВ7 (720p)
 http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Союз (576p)
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Союз" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Союз (576p)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Союз" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Союз (576p)
 http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/soyuz.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Союз (720p)
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Союз" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",Союз (720p)
 https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0.m3u8
-#EXTINF:-1 tvg-id="XiWangDianShiTai.tw" tvg-name="希望電視台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-url="" group-title="Religious",希望電視台 (720p)
-https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
+#EXTINF:-1 tvg-id="WeiXingDianShi.tw" tvg-name="唯心電視" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-url="" group-title="Religious",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-id="HuaZhangWeiShi.tw" tvg-name="華藏衛視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" tvg-url="" group-title="Religious",華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8

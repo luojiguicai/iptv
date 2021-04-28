@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" tvg-url="" group-title="News",Al Jazeera Balkans (1080p)
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Jazeera Balkans (1080p)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="htv1.hr" tvg-name="HTV1" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="",HRT 1 (720p) [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
@@ -27,5 +27,3 @@ http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8
 rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:-1 tvg-id="rtl.hr" tvg-name="RTL" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/aJGNyQn.png" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="",RTL (528p) [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-id="Z1.hr" tvg-name="Z1" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/gdaxFrx.jpg" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="",Z1 (480p)
-https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
