@@ -12085,7 +12085,7 @@ http://139.162.182.79/live/test/index.m3u8
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-url="" group-title="",Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="SawtElMada.lb" tvg-name="Sawt El Mada" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.sawtelmada.com/assets/themes/sawt%20al%20mada/images/logo.png" tvg-url="" group-title="",Sawt El Mada
+#EXTINF:-1 tvg-id="SawtElMada.lb" tvg-name="Sawt El Mada" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.sawtelmada.com/assets/themes/sawt%20al%20mada/images/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Sawt El Mada
 https://svs.itworkscdn.net/madalive/mada/playlist.m3u8
 #EXTINF:-1 tvg-id="SonLife.uk" tvg-name="SBN" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png" tvg-url="" group-title="",SBN
 https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/ch70/ch70.m3u8
